@@ -7,7 +7,7 @@
  - Load 
  - Storage
  - Memory
-## Design Schema.
+## Design DB Schema.
 ## Find Bottle Necks.
 ## Design the API.
 
