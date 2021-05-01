@@ -3,6 +3,6 @@
 ## MVP : Most Viable Product - Gather the requirements for the MVP
 ## Design Schema
 ## Find Bottle Necks
-## Design the APIS 
+## Design the API
 
  
