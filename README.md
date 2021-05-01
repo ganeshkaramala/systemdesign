@@ -1,7 +1,12 @@
 # System Design Approaches 
 
 ## MVP - Most Viable Product - Gather the requirements for the MVP.
-## Understand Constraints - Users | Load | Reads | Writes | Size.
+ Functional Requirements:
+ Non-Functional Requirements
+## Understand Constraints
+ Load 
+ Storage
+ Memory
 ## Design Schema.
 ## Find Bottle Necks.
 ## Design the API.
