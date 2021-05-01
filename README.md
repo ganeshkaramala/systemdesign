@@ -4,9 +4,10 @@
  - Functional Requirements
  - Non-Functional Requirements
 ## Understand Constraints
- - Load 
- - Storage
- - Memory
+ - Users: Number of users, Activity 
+ - Load:
+ - Storage:
+ - Memory:
 ## Design DB Schema.
 ## Find Bottle Necks.
 ## Design the API.
